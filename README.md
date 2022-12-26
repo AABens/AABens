@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ali, a full-time data analyst 👨‍💻</div>  
+### <div align="center">I'm a full-time data analyst 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on analysing central bank policy changes through data  
